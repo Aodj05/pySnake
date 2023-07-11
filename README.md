@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Snake game tutorials and resources
 
 ## Contact
-For any questions or inquiries, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please feel free to contact the project maintainer at [aodj05@gmail.com]
